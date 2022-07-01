@@ -1,2 +1,2 @@
 # go-examples
-Lern Go lang
+Learn Go lang
